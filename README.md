@@ -16,3 +16,5 @@ WIN_LOCK is an application that simulates the Windows 10 lock-screen in which th
 - The PIN entered at second attempt is shown
 - After Clicking or executing the application lock-screen is shown after a pause
 - To exit in between use ESC
+
+![WIN_LOCK.png](https://raw.githubusercontent.com/Yash227/WIN_LOCK/master/WIN_LOCK.png)
